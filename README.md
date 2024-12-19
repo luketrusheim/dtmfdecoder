@@ -5,7 +5,7 @@
 
 This project implements a **Dual-Tone Multi-Frequency (DTMF) Decoder** using integer-based digital signal processing (DSP) techniques. DTMF is the standard used in telecommunication systems to encode keypresses as pairs of audio frequencies. The decoder processes input audio signals to determine the corresponding keypad symbols while adhering to the DTMF standard.
 
-The project was designed as part of a coursework assignment to explore digital filter design, integer arithmetic in DSP, and minimizing **Inter-Symbol Interference (ISI)** for improved communication rates.
+The project was designed as part of a coursework assignment at Cal Poly to explore digital filter design.
 
 ## Features
 
@@ -83,4 +83,4 @@ Future enhancements could include:
 
 ## Acknowledgments
 
-This project was developed as part of the *CPE 367 - Digital Signal Processing* course under the guidance of Dr. F. DePiero. The project incorporates concepts such as integer-based filter design, DTMF decoding, and ISI optimization.
+This project was developed as part of the *CPE 367 - Digital Signals & Systems* course under the guidance of Professor Wayne Pilkington. The files cpe367_sig_analyzer.py and cpe367_wav.py are courtesy of Dr. F. DePiero and were included as a part of this project.
